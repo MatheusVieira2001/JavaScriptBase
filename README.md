@@ -1,2 +1,2 @@
 # JavaScriptBase
-Funcões bases do javascript
+Funcões Diversas do javascript
